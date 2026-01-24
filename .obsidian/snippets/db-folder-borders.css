@@ -1,0 +1,24 @@
+/* === DB FOLDER: FINAL PRO STYLE === */
+
+/* 1. ЛИНИИ: Тонкие и аккуратные */
+.database-plugin__td {
+    box-shadow: inset -1px -1px 0px 0px rgba(255, 255, 255, 0.15) !important;
+}
+
+/* 2. ЗЕБРА: Используем затемнение (черный), а не высветление */
+/* Это сохраняет синий оттенок твоей темы, делая строку "глубже" */
+.database-plugin__tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.25) !important;
+}
+
+/* 3. НАВЕДЕНИЕ: Легкая подсветка, чтобы видеть, где мышка */
+.database-plugin__tr:hover {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+}
+
+/* 4. ЗАГОЛОВКИ: Чуть темнее, чтобы отделить шапку */
+.database-plugin__th, 
+.database-plugin__header-cell {
+     box-shadow: inset -1px -2px 0px 0px rgba(255, 255, 255, 0.3) !important;
+     background-color: rgba(0, 0, 0, 0.4) !important;
+}

@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.folder == "Cisco/Commands"
+    - '!file.name.contains(".base")'
+formulas:
+  note_link: ""
+properties:
+  note.Device:
+    displayName: 💻 Device
+  note.Level:
+    displayName: 📊 Level
+  file.name:
+    displayName: 💻 Command
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.name != "MAIN Properties"
+    order:
+      - file.name
+      - ⚡ Alias
+      - 📟 Device
+      - 📶 Mode
+      - 🗂️ Category
+      - 📝 Description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: 🆔 cmd
+        direction: ASC
+      - property: 📝 Description
+        direction: ASC
+      - property: 💻 Command
+        direction: ASC
+      - property: №
+        direction: ASC
+      - property: 💻 Device
+        direction: DESC
+      - property: Level
+        direction: DESC
+      - property: 💻 Devidce
+        direction: ASC
+      - property: Device
+        direction: ASC
+      - property: Syntax
+        direction: DESC
+    columnSize:
+      file.name: 232
+      note.⚡ Alias: 85
+      note.📟 Device: 119
+      note.📶 Mode: 89
+      note.🗂️ Category: 108

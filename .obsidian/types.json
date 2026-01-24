@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Device": "text",
+    "📟 Device": "multitext",
+    "📶 Mode": "multitext",
+    "🗂️ Category": "multitext"
+  }
+}

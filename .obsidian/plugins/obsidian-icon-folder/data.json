@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiInfo",
+      "LiGithub",
+      "LiEarth",
+      "LiUnlockKeyhole",
+      "LiDatabaseZap"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Cisco": "LiNetwork",
+  "Obsidian": "💠",
+  "Obsidian/Hotkeys & Keyboard list.md": "LiKeyboard",
+  "Assets": "LiFolderCog",
+  "Assets/Attachements": "LiImage",
+  "Cisco/Cs - 01 Режимы конфигурирования.md": "LiSettings",
+  "Cisco/Cs - 00 Dashboard.md": "LiDatabase",
+  "Cisco/Cs - 99 Default Base.base": "LiDatabase",
+  "Cisco/Cs - 02 Authentification.md": "LiUnlockKeyhole",
+  "Network": "LiEarth",
+  "Git": "LiGithub",
+  "Git/Git - 00 Commit Style.md": "LiInfo"
+}

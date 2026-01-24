@@ -1,0 +1,26 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "🌐": 1,
+    "🐙git": 3,
+    "🌐/cisco": 1,
+    "🌐/net": 2,
+    "🐙git/commit": 1,
+    "🌐/cisco/cmd": 1,
+    "🌐/cisco/router": 2,
+    "🌐/net/ospf": 1,
+    "🌐/net/protocols": 2,
+    "🌐/net/theory": 3
+  },
+  "tagColors": {},
+  "_version": 4
+}

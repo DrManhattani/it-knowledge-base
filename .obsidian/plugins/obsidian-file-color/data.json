@@ -1,0 +1,81 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "OjU0607tZi1AoR0e13PC1",
+      "name": "White",
+      "value": "#ffffff"
+    },
+    {
+      "id": "XBpdjrY0l1wELivfpNTCg",
+      "name": "Red",
+      "value": "#cc0000"
+    },
+    {
+      "id": "ZYQmNzHoi6Ai-gPEmPJ7E",
+      "name": "Pink",
+      "value": "#e6009d"
+    },
+    {
+      "id": "0Dok6AfCPNQkXO28hFAjc",
+      "name": "Violet",
+      "value": "#9600db"
+    },
+    {
+      "id": "Gjc3tU7xkfrk8IP1B_l0j",
+      "name": "Blue",
+      "value": "#2e58ff"
+    },
+    {
+      "id": "5TOk21Rm4NkRkR6LQwZg4",
+      "name": "Cyan",
+      "value": "#33fcff"
+    },
+    {
+      "id": "q4bEIBNEurWtmtsXFbvl3",
+      "name": "Green",
+      "value": "#73ff00"
+    },
+    {
+      "id": "NqIW8ojJqz3C85VuUc-Ez",
+      "name": "Yellow",
+      "value": "#ffea00"
+    },
+    {
+      "id": "0nb_wk4cJnh81-Q-XmEXM",
+      "name": "Orange",
+      "value": "#fe7e16"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Cisco",
+      "color": "5TOk21Rm4NkRkR6LQwZg4"
+    },
+    {
+      "path": "Obsidian",
+      "color": "OjU0607tZi1AoR0e13PC1"
+    },
+    {
+      "path": "Assets",
+      "color": "OjU0607tZi1AoR0e13PC1"
+    },
+    {
+      "path": "Cisco/Cs - 99 Default Base.base",
+      "color": "OjU0607tZi1AoR0e13PC1"
+    },
+    {
+      "path": "Cisco/Cs - 00 Dashboard.md",
+      "color": "XBpdjrY0l1wELivfpNTCg"
+    },
+    {
+      "path": "Network",
+      "color": "Gjc3tU7xkfrk8IP1B_l0j"
+    },
+    {
+      "path": "Git",
+      "color": "0nb_wk4cJnh81-Q-XmEXM"
+    }
+  ]
+}

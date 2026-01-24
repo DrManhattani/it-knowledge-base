@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Assets/Attachements",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "vimMode": false,
+  "showLineNumber": true
+}
