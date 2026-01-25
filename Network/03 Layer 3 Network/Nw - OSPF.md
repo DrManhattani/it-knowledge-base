@@ -1,8 +1,8 @@
 ---
 tags:
-  - 🌐/net/ospf
-  - 🌐/net/theory
-  - 🌐/net/protocols
+  - 🌐network/osi/ospf
+  - 🌐network/osi/theory
+  - 🌐network/osi/protocols
 💠Stack: Networks
 📡 Protocol: OSPF (Open Shortest Path First)
 📶 OSI Layer: L3 (Network)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - 🌐/cisco
+  - 🌐network/cisco
 💠Stack: 🟧 Cisco
 🗂️ Category:
   - 🛡️ Sec

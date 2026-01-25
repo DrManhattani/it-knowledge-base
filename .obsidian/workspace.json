@@ -13,30 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco/Commands/Cs - router rip.md",
-                "mode": "source",
+                "file": "Git/01  ⚙️ Internals/Git - 01 SHA-1 & Objects Internals.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cs - router rip"
+              "title": "Git - 01 SHA-1 & Objects Internals"
             }
           },
           {
-            "id": "06b659909db8a12b",
+            "id": "8a96e8bf8821c4bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git - 00 Commit Style.md",
+                "file": "Git/01  ⚙️ Internals/Git - 00 Objects Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - 00 Commit Style"
+              "title": "Git - 00 Objects Type"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#🌐network/net",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,44 +231,44 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "06b659909db8a12b",
+  "active": "37d91a1e12fe20a5",
   "lastOpenFiles": [
-    "Cisco/Cs - 02 Authentification.md",
-    "Cisco/Cs - 01 Режимы конфигурирования.md",
-    "Git/Git - 00 Commit Style.md",
-    "Cisco/Commands/Cs - ping.md",
-    "Network/04 Layer 3 Network/Nw - OSPF.md",
-    "Cisco/Commands/Cs - aaa new-model.md",
-    "Cisco/Cs - 00 Dashboard.md",
-    "Cisco/Commands/Cs - area virtual-link.md",
-    "Git",
-    "Cisco/Cs - show ip ospf interface.md",
-    "Cisco/Commands/Cs - ip ospf cost.md",
-    "Cisco/Commands/Cs - network (OSPF).md",
-    "Cisco/Commands/Cs - router-id.md",
+    "Git/01  ⚙️ Internals/Git - 00 Objects Type.md",
+    "Git/01  ⚙️ Internals/Git - 01 SHA-1 & Objects Internals.md",
     "Cisco/Commands/Cs - router rip.md",
-    "Cisco/Commands/Cs - router ospf.md",
-    "Cisco/Commands/Cs - line console 0.md",
-    "Cisco/Commands/Cs - line vty.md",
-    "Cisco/Commands/Cs - login authentication.md",
-    "Cs - network (OSPF).md",
-    "Cisco/Commands/Cs - interface vlan (SVI).md",
+    "Network/03 Layer 3 Network/Nw - OSPF.md",
+    "Cisco/Commands/Cs - write.md",
+    "Cisco/Commands/Cs - username.md",
+    "Cisco/Commands/Cs - transport.md",
     "Cisco/Commands/Cs - switchport mode.md",
     "Cisco/Commands/Cs - switchport access vlan.md",
-    "Cisco/Commands/Cs - crypto key generate rsa.md",
-    "Cisco/Commands/Cs - hostname.md",
-    "Network/06 Layer 1 Physical",
-    "Network/05 Layer 2 DataLink",
-    "Network/04 Layer 3 Network",
-    "Network/03 Layer 4 Transport",
-    "Assets/03 Layer 4 TransportUntitled",
-    "Network/02 Layer 5-6 Presentation Session",
-    "Network/01 Layer 7 Application",
-    "Network/00 Architecture & Encapsulation",
-    "Network",
-    "Untitled.md",
-    "Cisco/Commands/Cs - erase startup-config.md",
+    "Cisco/Commands/Cs - show running-config.md",
     "Cisco/Commands/Cs - show ip route.md",
+    "Cisco/Commands/Cs - show ip ospf interface.md",
+    "Cisco/Commands/Cs - service password-encryption.md",
+    "Cisco/Commands/Cs - router-id.md",
+    "Cisco/Commands/Cs - router ospf.md",
+    "Cisco/Commands/Cs - ping.md",
+    "Cisco/Commands/Cs - no ip domain-lookup.md",
+    "Cisco/Commands/Cs - network (OSPF).md",
+    "Cisco/Commands/Cs - line vty.md",
+    "Cisco/Commands/Cs - login authentication.md",
+    "Cisco/Commands/Cs - line console 0.md",
+    "Cisco/Commands/Cs - ip ssh.md",
+    "Cisco/Commands/Cs - ip route.md",
+    "Cisco/Commands/Cs - ip domain-name.md",
+    "Cisco/Commands/Cs - interface vlan (SVI).md",
+    "Cisco/Commands/Cs - do.md",
+    "Git/Commands",
+    "Git/📄 00 🆘 Cheat Sheet",
+    "Git/05 ⚡ Advanced",
+    "Git/04 ☁️ Remote",
+    "Git/03 🌿 Branching & Merging",
+    "Git/02 🔄 Basic Workflow",
+    "Git/01  ⚙️ Internals",
+    "Git/01 ⚙️ Internals (Под капотом)",
+    "Git/00 🏁 Intro & Settings",
+    "Cisco/Cs - 99 Default Base.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Assets/Attachements/Pasted image 20260108174835.png",

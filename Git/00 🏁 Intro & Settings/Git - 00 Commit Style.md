@@ -7,9 +7,6 @@ tags:
   - 💻 Local
   - 🤝 Team (Collaboration)
 🛡️ Risk: ✅ Safe
-🗂️ Category:
-  - 🎨 Style Guide
-  - ⚡ Best Practices
 📝 Description: Личный стандарт оформления коммитов (Conventional Commits). Правила именования и типы изменений.
 ⚡ Alias:
   - git commit style

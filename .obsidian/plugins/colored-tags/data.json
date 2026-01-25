@@ -10,16 +10,20 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "🌐": 1,
+    "🌐network": 2,
     "🐙git": 3,
-    "🌐/cisco": 1,
-    "🌐/net": 2,
+    "🌐network/cisco": 1,
+    "🌐network/osi": 2,
     "🐙git/commit": 1,
-    "🌐/cisco/cmd": 1,
-    "🌐/cisco/router": 2,
-    "🌐/net/ospf": 1,
-    "🌐/net/protocols": 2,
-    "🌐/net/theory": 3
+    "🐙git/crypto": 2,
+    "🐙git/integrity": 2,
+    "🐙git/objects": 2,
+    "🐙git/theory": 2,
+    "🌐network/cisco/cmd": 1,
+    "🌐network/cisco/router": 1,
+    "🌐network/osi/ospf": 1,
+    "🌐network/osi/protocols": 2,
+    "🌐network/osi/theory": 3
   },
   "tagColors": {},
   "_version": 4

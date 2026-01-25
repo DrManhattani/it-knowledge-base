@@ -1,7 +1,6 @@
 ---
 tags:
-  - 🌐/cisco
-  - 🌐/cisco/cmd
+  - 🌐network/cisco/cmd
 💠Stack: 🟧 Cisco
 📟 Device:
   - ◈ Rtr
