@@ -65,5 +65,6 @@
   "Cisco/Cs - 00 Cheat Sheet.md": "LiDatabase",
   "Git/Commands": "LiList",
   "Git/01  ⚙️ Internals/Git - 01 SHA-1 & Objects Internals.md": "LiSettings",
-  "Git/01  ⚙️ Internals/Git - 02 Areas.md": "LiSettings"
+  "Git/01  ⚙️ Internals/Git - 02 Areas.md": "LiSettings",
+  "Git/01  ⚙️ Internals/Git - 03 User settings.md": "LiSettings"
 }

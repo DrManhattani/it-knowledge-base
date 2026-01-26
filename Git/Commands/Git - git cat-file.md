@@ -7,6 +7,7 @@ tags:
   - 🌎 Global
 🛡️ Risk: ✅ Safe
 🏹 Target Area: Object DB 🗄️
+🔧 Level: 🪠 Plumbing
 📝 Description: Команда для инспекции содержимого, типа и размера объектов в репозитории Git.
 💻 Command: git cat-file
 ---
