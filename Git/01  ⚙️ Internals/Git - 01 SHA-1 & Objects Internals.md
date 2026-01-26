@@ -115,7 +115,7 @@ blob 11\0Hello, Git!
 > $$Hash = SHA1({Rights} + {Type} + {Hash Object} + {Tab} + {Name})$$
 **Пример содержимого файла tree:** 
 >```
-100644 blob b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e` *(tabulation)* `file_name
+100644 blob b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e     file_name
 >```
 ### 💾 3.3 Для типа **COMMIT** (Контрольная точка)
 > [!example]  Коммит связывает дерево с историей и автором.

@@ -2,5 +2,6 @@
   "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
     "db-folder-borders"
-  ]
+  ],
+  "theme": "obsidian"
 }
