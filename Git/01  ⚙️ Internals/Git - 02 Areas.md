@@ -1,7 +1,7 @@
 ---
 tags:
   - 🐙git
-  - 🐙git/internals
+  - 🐙git/areas
   - 🐙git/theory
 💠Stack: 🐙 Git
 🌍 Scope:

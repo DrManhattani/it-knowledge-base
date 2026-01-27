@@ -2,6 +2,7 @@
 tags:
   - 🐙git/theory
   - 🐙git
+  - 🐙git/config
 💠Stack: 🐙 Git
 🌍 Scope:
   - 🌐 System-wide
