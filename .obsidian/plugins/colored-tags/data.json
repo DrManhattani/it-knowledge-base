@@ -20,6 +20,7 @@
     "🐙git/config": 2,
     "🐙git/crypto": 2,
     "🐙git/integrity": 2,
+    "🐙git/log": 3,
     "🐙git/objects": 2,
     "🐙git/status": 3,
     "🐙git/theory": 2,

@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "debbc693176f08a2",
+    "id": "3f38ca125c65f916",
     "type": "split",
     "children": [
       {
-        "id": "fffe48852ad36d25",
+        "id": "a7a957496de3ecbc",
         "type": "tabs",
         "children": [
           {
-            "id": "37d91a1e12fe20a5",
+            "id": "c69ac43f5ea866e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Commands/Git - git mktree.md",
+                "file": "Git/Commands/Git - git log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - git mktree"
-            }
-          },
-          {
-            "id": "1e9f46990754edf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/01  ⚙️ Internals/Git - 04 Commit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git - 04 Commit"
+              "title": "Git - git log"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1a858f59ffea4cc2",
+    "id": "0cd0170427956a57",
     "type": "split",
     "children": [
       {
-        "id": "eb2891af46c601ab",
+        "id": "abad9887608437b9",
         "type": "tabs",
         "children": [
           {
-            "id": "181b277b4de9a65b",
+            "id": "8d472550ba6eebe3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,16 +44,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
-            "id": "d8e0fcc91c53bbe6",
+            "id": "474ccbb954a876f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:🐙git/cmd",
+                "query": "tag:🐙git/areas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,41 +61,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
-            "id": "773b31e4786c2ece",
+            "id": "9f4547d59d98ad49",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 300
   },
   "right": {
-    "id": "77852830a3371ce8",
+    "id": "ab1bf04a3d866685",
     "type": "split",
     "children": [
       {
-        "id": "7e3cb6a6b92511c4",
+        "id": "25f6d6ad9fdceb74",
         "type": "tabs",
-        "dimension": 52.08728652751424,
         "children": [
           {
-            "id": "7d1e593efffc86c4",
+            "id": "b264bfa867d0b67c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/Cs - 00 Dashboard.md",
+                "file": "Git/01  ⚙️ Internals/Git - 03 User settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cs - 00 Dashboard"
+              "title": "Backlinks for Git - 03 User settings"
             }
           },
           {
-            "id": "5a7a4f3b80c1d680",
+            "id": "26e0612b8213f887",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/Cs - 00 Dashboard.md",
+                "file": "Git/01  ⚙️ Internals/Git - 03 User settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cs - 00 Dashboard"
+              "title": "Outgoing links from Git - 03 User settings"
             }
           },
           {
-            "id": "8ab02bb9eb104aaa",
+            "id": "9de01f01f3482dcb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,26 +133,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
-            "id": "5235afe9e859de75",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Cisco/Cs - 00 Dashboard.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Cs - 00 Dashboard"
-            }
-          },
-          {
-            "id": "b692a8e23188303b",
+            "id": "01918a3588c32e45",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -182,25 +151,22 @@
             }
           },
           {
-            "id": "3ba9c98242ca8136",
+            "id": "80d0cf5ae95b549c",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "type": "outline",
+              "state": {
+                "file": "Git/01  ⚙️ Internals/Git - 03 User settings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Git - 03 User settings"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "2a4501a47edd8ca8",
-        "type": "tabs",
-        "dimension": 47.91271347248576,
-        "children": [
+          },
           {
-            "id": "0d01b26f9c2ca8ad",
+            "id": "6693f99cf1a5afa0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -209,21 +175,22 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
@@ -231,52 +198,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1e9f46990754edf9",
+  "active": "8d472550ba6eebe3",
   "lastOpenFiles": [
-    "Git/Commands/Git - git commit.md",
-    "Git/Commands/Git - git rm.md",
-    "Git/Commands/Git - git checkout.md",
     "Git/Commands/Git - git add.md",
-    "Git/Commands/Git - git cat-file.md",
-    "Git/01  ⚙️ Internals/Git - 02 Areas.md",
-    "Git/Commands/Git - git ls-files.md",
-    "Git/Commands/Git - git hash-object.md",
-    "Git/Commands/Git - git read-tree.md",
+    "Git/Commands/Git - git commit.md",
     "Git/Commands/Git - git status.md",
+    "Git/Commands/Git - git log.md",
+    "Git/Commands/Git - git checkout.md",
+    "Git/01  ⚙️ Internals/Git - 03 User settings.md",
+    "Git/Commands/Git - git rm.md",
     "Git/Commands/Git - git config.md",
-    "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md",
-    "Git/01  ⚙️ Internals/Git - 03 User Settings.md",
     "Git/01  ⚙️ Internals/Git - 06 HEAD.md",
+    "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md",
     "Git/01  ⚙️ Internals/Git - 04 Commit.md",
-    "Git - core.autocrlf.md",
+    "Git/01  ⚙️ Internals/Git - 02 Areas.md",
     "Git/01  ⚙️ Internals/Git - 00 Objects Type.md",
     "Git/01  ⚙️ Internals/Git - 01 SHA-1 & Objects Internals.md",
-    "Git/Commands/Git - git mktree.md",
-    "Git/00 🏁 Intro & Settings/Git - 01 Introduction Git.md",
-    "Git/00 🏁 Intro & Settings/Git - 00 Commit Style.md",
-    "Git/Commands",
-    "Cisco/Commands/Cs - router rip.md",
-    "Network/03 Layer 3 Network/Nw - OSPF.md",
-    "Cisco/Commands/Cs - write.md",
-    "Cisco/Commands/Cs - username.md",
-    "Cisco/Commands/Cs - transport.md",
-    "Git/Commands",
-    "Git/📄 00 🆘 Cheat Sheet",
-    "Git/05 ⚡ Advanced",
-    "Git/04 ☁️ Remote",
-    "Git/03 🌿 Branching & Merging",
-    "Git/02 🔄 Basic Workflow",
-    "Git/01  ⚙️ Internals",
-    "Git/01 ⚙️ Internals (Под капотом)",
-    "Git/00 🏁 Intro & Settings",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Assets/Attachements/Pasted image 20260108174835.png",
-    "Assets/Attachements/Pasted image 20260108174819.png",
-    "Assets/Attachements/Pasted image 20260108174809.png",
-    "Assets/Attachements/Pasted image 20260108174705.png",
-    "Без названия.canvas",
-    "Plugins.canvas",
-    "Без названия 1.canvas"
+    "Git/Commands/Git - git read-tree.md",
+    "Git/Commands/Git - git cat-file.md",
+    "Git/Commands/Git - git hash-object.md",
+    "Git/Commands/Git - git ls-files.md",
+    "Git/Commands/Git - git mktree.md"
   ]
 }
