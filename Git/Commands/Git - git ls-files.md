@@ -2,6 +2,8 @@
 tags:
   - 🐙git/cmd
   - 🐙git
+  - 🐙git/show
+  - 🐙git/index
 💠Stack: 🐙 Git
 🌍 Scope:
   - 🌎 Global

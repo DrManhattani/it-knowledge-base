@@ -2,6 +2,7 @@
 tags:
   - 🐙git/cmd
   - 🐙git
+  - 🐙git/rm
 💠Stack: 🐙 Git
 🔧 Level: 🏺 Porcelain
 🌍 Scope:

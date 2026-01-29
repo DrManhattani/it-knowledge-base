@@ -1,6 +1,8 @@
 ---
 tags:
   - 🐙git/cmd
+  - 🐙git/index
+  - 🐙git
 💠Stack: 🐙 Git
 🔧 Level: 🏺 Porcelain
 🌍 Scope:
