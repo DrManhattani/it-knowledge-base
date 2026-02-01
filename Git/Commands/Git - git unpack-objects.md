@@ -5,6 +5,8 @@ tags:
   - 🐙git
 💠Stack: 🐙 Git
 🔧 Level: 🪠 Plumbing (Низкоуровневая)
+🌍 Scope:
+  - 📁 Local
 🛡️ Risk: ⚠️ Moderate
 🏹 Target Area: Object Database (`.git/objects`) 🗄️
 📝 Description: Распаковка сжатых pack-файлов в индивидуальные «loose» объекты.
