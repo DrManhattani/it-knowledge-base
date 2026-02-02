@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Commands/Git - git pull.md",
+                "file": "Git/Commands/Git - git remote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - git pull"
+              "title": "Git - git remote"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -148,7 +148,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -199,13 +199,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
@@ -215,31 +215,31 @@
   },
   "active": "233a5450acdac283",
   "lastOpenFiles": [
+    "Git/Commands/Git - git rebase.md",
+    "Git/Commands/Git - git ls-files.md",
+    "Git/Commands/Git - git pull.md",
     "Git/Commands/Git - git merge.md",
     "Git/Commands/Git - git push.md",
-    "Git/Commands/Git - git pull.md",
-    "Git/Commands/Git - git status.md",
-    "Git/Commands/Git - git unpack-objects.md",
-    "Git/Commands/Git - git remote.md",
-    "Git/Commands/Git -  git fetch.md",
+    "Git/Commands/Git - git mktree.md",
     "Git/Commands/Git - git branch.md",
+    "Git/Commands/Git -  git fetch.md",
+    "Git/Commands/Git - git read-tree.md",
+    "Git/Commands/Git - git remote.md",
     "Git/Commands/Git - git checkout.md",
     "Git/Commands/Git - git config.md",
     "Git/Commands/Git - git diff.md",
     "Git/Commands/Git - git log.md",
     "Git/Commands/Git - git add.md",
+    "Git/Commands/Git - git unpack-objects.md",
     "Git/Commands/Git - git hash-object.md",
     "Git/Commands/Git - git rm.md",
     "Git/Commands/hopana.md",
-    "Git/Commands/Git - git read-tree.md",
-    "Git/Commands/Git - git ls-files.md",
+    "Git/Commands/Git - git status.md",
     "Git/Commands/Git - git commit.md",
     "Git/01  ⚙️ Internals/Git - 03 User settings.md",
     "Git/01  ⚙️ Internals/Git - 06 HEAD.md",
     "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md",
     "Git/01  ⚙️ Internals/Git - 04 Commit.md",
-    "Git/01  ⚙️ Internals/Git - 02 Areas.md",
-    "Git/01  ⚙️ Internals/Git - 00 Objects Type.md",
-    "Git/01  ⚙️ Internals/Git - 01 SHA-1 & Objects Internals.md"
+    "Git/01  ⚙️ Internals/Git - 02 Areas.md"
   ]
 }

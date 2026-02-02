@@ -26,6 +26,7 @@ tags:
 >
 > ```text
 > git push [<options>] [<repository> [<refspec>...]]
+> git push <remote> <src>:<dst>
 > ```
 > 
 > ### 📋 Детальный разбор параметров
