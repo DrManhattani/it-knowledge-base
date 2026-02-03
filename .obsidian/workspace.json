@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Commands/Git - git remote.md",
+                "file": "Git/Commands/Git - git cherry-pick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - git remote"
+              "title": "Git - git cherry-pick"
             }
           }
         ],
@@ -216,15 +216,16 @@
   "active": "233a5450acdac283",
   "lastOpenFiles": [
     "Git/Commands/Git - git rebase.md",
+    "Git/Commands/Git - git cherry-pick.md",
+    "Git/Commands/Git - git remote.md",
+    "Git/Commands/Git - git push.md",
     "Git/Commands/Git - git ls-files.md",
     "Git/Commands/Git - git pull.md",
     "Git/Commands/Git - git merge.md",
-    "Git/Commands/Git - git push.md",
     "Git/Commands/Git - git mktree.md",
     "Git/Commands/Git - git branch.md",
     "Git/Commands/Git -  git fetch.md",
     "Git/Commands/Git - git read-tree.md",
-    "Git/Commands/Git - git remote.md",
     "Git/Commands/Git - git checkout.md",
     "Git/Commands/Git - git config.md",
     "Git/Commands/Git - git diff.md",
@@ -239,7 +240,6 @@
     "Git/01  ⚙️ Internals/Git - 03 User settings.md",
     "Git/01  ⚙️ Internals/Git - 06 HEAD.md",
     "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md",
-    "Git/01  ⚙️ Internals/Git - 04 Commit.md",
-    "Git/01  ⚙️ Internals/Git - 02 Areas.md"
+    "Git/01  ⚙️ Internals/Git - 04 Commit.md"
   ]
 }
