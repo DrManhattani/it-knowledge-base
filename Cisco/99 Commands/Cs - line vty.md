@@ -117,7 +117,7 @@ tags:
 ---
 
 ## 🔗 Связи
-* **Фундамент:** [[Cs - 02 Authentification | Authentification]] (Почему SSH требует `login local`)
+* **Фундамент:** [[Cs - 01 Authentification| Authentification]] (Почему SSH требует `login local`)
 * **Кого пускаем:** [[Cs - username | username]]
 * **Физический брат:** [[Cs - line console | line console]]
 * **Ключи от двери:** [[Cs - crypto key generate rsa]]

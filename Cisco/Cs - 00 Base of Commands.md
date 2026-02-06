@@ -222,7 +222,7 @@ config:
   show_metadata_outlinks: false
   show_metadata_tags: true
   source_data: tag
-  source_form_result: "#🌐/cisco/cmd"
+  source_form_result: "#🌐network/cisco/cmd"
   source_destination_path: /
   row_templates_folder: /
   current_row_template: 

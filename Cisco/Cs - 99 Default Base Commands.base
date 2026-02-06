@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "Cisco/Commands"
+    - file.folder == "Cisco/99 Commands"
     - '!file.name.contains(".base")'
 formulas:
   note_link: ""

@@ -13,30 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Commands/Git -  git fetch.md",
+                "file": "Cisco/99 Commands/Cs - aaa authentication login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git -  git fetch"
+              "title": "Cs - aaa authentication login"
             }
           },
           {
-            "id": "233a5450acdac283",
+            "id": "56d3593b885ded62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Git/Commands/Git - git diff.md",
-                "mode": "source",
-                "source": false
+                "file": "Git/Git - 01 Base of questions.md"
               },
-              "icon": "lucide-file",
-              "title": "Git - git diff"
+              "icon": "database-folder-icon",
+              "title": "Git - 01 Base of questions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +56,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -68,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:🐙git/areas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +73,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -148,7 +145,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -199,13 +196,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
@@ -213,33 +210,37 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "233a5450acdac283",
+  "active": "c69ac43f5ea866e4",
   "lastOpenFiles": [
-    "Git/Commands/Git - git status.md",
-    "Git/Commands/Git - git add.md",
-    "Git/Commands/Git - git clone.md",
-    "Git/Commands/Git - git pull.md",
-    "Git/Commands/Git - git branch.md",
-    "Git/Commands/Git - git cat-file.md",
-    "Git/Commands/Git -  git fetch.md",
-    "Git/Commands/Git - git rebase.md",
-    "Git/Commands/Git - git rm.md",
-    "Git/Commands/Git - git merge.md",
-    "Git/Commands/Git - git cherry-pick.md",
-    "Git/Commands/Git - git push.md",
-    "Git/Commands/Git - git unpack-objects.md",
-    "Git/Commands/Git - git remote.md",
-    "Git/Commands/Git - git checkout.md",
-    "Git/Commands/Git - git config.md",
-    "Git/Commands/Git - git diff.md",
-    "Git/Commands/Git - git log.md",
-    "Git/Commands/Git - git hash-object.md",
-    "Git/Commands/hopana.md",
-    "Git/Commands/Git - git read-tree.md",
-    "Git/Commands/Git - git ls-files.md",
-    "Git/Commands/Git - git commit.md",
-    "Git/01  ⚙️ Internals/Git - 03 User settings.md",
+    "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md",
+    "Git/Git - 01 Base of questions.md",
+    "Git/100 Interview/Git - 02 Ключевые понятия Git.md",
+    "Git/100 Interview/Git - 01 Что такое Git.md",
+    "Git/99 Commands/Git - git remote.md",
+    "Git/99 Commands/Git - git branch.md",
     "Git/01  ⚙️ Internals/Git - 06 HEAD.md",
-    "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md"
+    "Git/01  ⚙️ Internals/Git - 00 Objects Type.md",
+    "Git/01  ⚙️ Internals/Git - 04 Commit.md",
+    "Obsidian/Hotkeys & Keyboard list.md",
+    "Cisco/Cs - 00 Base of Commands.md",
+    "Cisco/Cs - 99 Default Base Commands.base",
+    "Cisco/00 📜 Theory/Cs - 01 Authentification.md",
+    "Cisco/100 Interview 1/Git - 01 Что такое Git.md",
+    "Cisco/100 Interview",
+    "Cisco/00 📜 Theory",
+    "Git/99 Commands/Git - git pull.md",
+    "Git/99 Commands/Git - git ls-files.md",
+    "Git/99 Commands/Git - git hash-object.md",
+    "Git/99 Commands/Git - git commit.md",
+    "Git/99 Commands/Git - git checkout.md",
+    "Git/99 Commands/Git - git add.md",
+    "Git/99 Commands/Git -  git fetch.md",
+    "Git/00 🏁 Intro & Settings/Git - 00 Commit Style.md",
+    "Git/Git - 00 Cheat Sheet.md",
+    "Cisco/00 📜 Theory/Cs - 00 Режимы конфигурирования.md",
+    "Git/100 Interview",
+    "Git/00 🏁 Intro & Settings/Git - 01 Introduction Git.md",
+    "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md",
+    "Git/99 Commands/Git - git rebase.md"
   ]
 }

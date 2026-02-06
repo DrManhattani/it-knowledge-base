@@ -85,4 +85,4 @@ tags:
 ## 🔗 Связи
 * **Где вводим:** [[Cs - configure terminal | configure terminal]]
 * **Для чего нужно:** [[Cs - login local]]
-* **Теория Аутентификации:** [[Cs - 02 Authentification | Authentification]]
+* **Теория Аутентификации:** [[Cs - 01 Authentification| Authentification]]

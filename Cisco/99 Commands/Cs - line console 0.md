@@ -97,4 +97,4 @@ tags:
 * **Кого пускаем в эту дверь:** [[Cs - username | username]]
 * **Соседняя (виртуальная) дверь:** [[Cs - line vty | line vty]]
 * **Команда удобства:** [[Cs - logging synchronous | logging synchronous]]
-* **Теория Аутентификации:** [[Cs - 02 Authentification | Authentification]]
+* **Теория Аутентификации:** [[Cs - 01 Authentification| Authentification]]
