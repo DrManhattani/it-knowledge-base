@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabase",
+      "📁",
+      "LiList",
       "LiSettings",
-      "LiTableConfig",
-      "LiLogIn",
-      "🗣",
-      "LiDatabase"
+      "LiTableConfig"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,18 +64,20 @@
   "Git/01  ⚙️ Internals/Git - 06 HEAD.md": "LiSettings",
   "Git/01  ⚙️ Internals/Git - 03 User Settings.md": "LiSettings",
   "Git/01  ⚙️ Internals/Git - 03 User settings.md": "LiSettings",
-  "Cisco/00 📜 Theory": "📁",
-  "Cisco/99 Commands": "LiList",
   "Cisco/100 Interview": "🗣",
+  "Network/03 Layer 3 Network/Nw - OSPF.md": "LiSettings",
   "Git/100 Interview": "🗣",
   "Git/99 Commands": "LiList",
-  "Git/Git - 01 Base of questions.md": "LiDatabase",
+  "Cisco/99 Commands": "LiList",
+  "Cisco/00 📜 Theory": "📁",
   "Cisco/Cs - 00 Base of Commands.md": "LiDatabase",
+  "Git/Git - 01 Base of questions.md": "LiDatabase",
   "Cisco/Cs - 99 Default Base Commands.base": "LiDatabase",
-  "Cisco/00 📜 Theory/Cs - 01 Authentification.md": "LiLogIn",
   "Cisco/00 📜 Theory/Cs - 00 Режимы конфигурирования.md": "LiSettings",
-  "Network/03 Layer 3 Network/Nw - OSPF.md": "LiSettings",
+  "Cisco/00 📜 Theory/Cs - 01 Authentification.md": "LiSettings",
   "Git/100 Interview/Git - 01 Что такое Git.md": "LiSettings",
   "Git/100 Interview/Git - 02 Ключевые понятия Git.md": "LiSettings",
-  "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md": "LiSettings"
+  "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md": "LiSettings",
+  "Git/100 Interview/Git - 04 Разница между Git и GitHub.md": "LiSettings",
+  "Git/100 Interview/Git - 05 Что такое репозиторий.md": "LiSettings"
 }

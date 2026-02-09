@@ -46,6 +46,11 @@
       "id": "0nb_wk4cJnh81-Q-XmEXM",
       "name": "Orange",
       "value": "#fe7e16"
+    },
+    {
+      "id": "lCAFxk3FXkcnPtCFK69qY",
+      "name": "",
+      "value": "#a8a8a9"
     }
   ],
   "fileColors": [
@@ -70,28 +75,32 @@
       "color": "0nb_wk4cJnh81-Q-XmEXM"
     },
     {
-      "path": "Git/Git - 01 Base of questions.md",
-      "color": "XBpdjrY0l1wELivfpNTCg"
-    },
-    {
-      "path": "Cisco/Cs - 00 Base of Commands.md",
-      "color": "XBpdjrY0l1wELivfpNTCg"
-    },
-    {
-      "path": "Git/99 Commands",
-      "color": "5TOk21Rm4NkRkR6LQwZg4"
-    },
-    {
-      "path": "Cisco/99 Commands",
-      "color": "5TOk21Rm4NkRkR6LQwZg4"
+      "path": "Cisco/100 Interview",
+      "color": "q4bEIBNEurWtmtsXFbvl3"
     },
     {
       "path": "Git/100 Interview",
       "color": "q4bEIBNEurWtmtsXFbvl3"
     },
     {
-      "path": "Cisco/100 Interview",
-      "color": "q4bEIBNEurWtmtsXFbvl3"
+      "path": "Cisco/99 Commands",
+      "color": "5TOk21Rm4NkRkR6LQwZg4"
+    },
+    {
+      "path": "Cisco/Cs - 00 Base of Commands.md",
+      "color": "XBpdjrY0l1wELivfpNTCg"
+    },
+    {
+      "path": "Git/Git - 01 Base of questions.md",
+      "color": "XBpdjrY0l1wELivfpNTCg"
+    },
+    {
+      "path": "Cisco/Cs - 99 Default Base Commands.base",
+      "color": "OjU0607tZi1AoR0e13PC1"
+    },
+    {
+      "path": "Git/99 Commands",
+      "color": "5TOk21Rm4NkRkR6LQwZg4"
     }
   ]
 }
