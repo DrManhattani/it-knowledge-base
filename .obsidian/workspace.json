@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/100 Interview/Git - 05 Что такое репозиторий.md",
+                "file": "Git/100 Interview/Git - 06 Рабочая директория, Индекс и Репозиторий.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - 05 Что такое репозиторий"
+              "title": "Git - 06 Рабочая директория, Индекс и Репозиторий"
             }
           }
         ]
@@ -200,14 +200,15 @@
   },
   "active": "51290aa164a4b1a8",
   "lastOpenFiles": [
-    "Git/99 Commands/Git - git cherry-pick.md",
+    "Git/100 Interview/Git - 01 Что такое Git.md",
+    "Git/100 Interview/Git - 06 Рабочая директория, Индекс и Репозиторий.md",
+    "Git/100 Interview/Git - 04 Разница между Git и GitHub.md",
+    "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md",
+    "Git/100 Interview/Git - 02 Ключевые понятия Git.md",
     "Git/100 Interview/Git - 05 Что такое репозиторий.md",
+    "Git/99 Commands/Git - git cherry-pick.md",
     "Git/01  ⚙️ Internals/Git - 02 Areas.md",
     "Git/99 Commands/Git - git ls-files.md",
-    "Git/100 Interview/Git - 04 Разница между Git и GitHub.md",
-    "Git/100 Interview/Git - 01 Что такое Git.md",
-    "Git/100 Interview/Git - 02 Ключевые понятия Git.md",
-    "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md",
     "Git/01  ⚙️ Internals/Git - 00 Objects Type.md",
     "Git/Git - 01 Base of questions.md",
     "Cisco/Cs - 00 Base of Commands.md",
@@ -225,7 +226,6 @@
     "Git/99 Commands/Git - git push.md",
     "Git/99 Commands/Git - git pull.md",
     "Git/99 Commands/Git - git mktree.md",
-    "Git/99 Commands/Git - git merge.md",
     "Git/99 Commands",
     "Git/100 Interview",
     "Cisco/Cs - 99 Default Base Commands.base",
