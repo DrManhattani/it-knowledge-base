@@ -2,7 +2,7 @@
 tags:
   - 🐙git
   - 🐙git/questions
-❔ Question: Как работает команда git add под капотом?
+❔ Question: 11 Как работает команда git add под капотом?
 🔧 Level: 🛡️ Basic
 ---
 # Команда git add

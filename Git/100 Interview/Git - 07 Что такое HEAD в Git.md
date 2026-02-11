@@ -2,7 +2,7 @@
 tags:
   - 🐙git
   - 🐙git/questions
-❔ Question: Что такое HEAD в Git?
+❔ Question: 07 Что такое HEAD в Git?
 🔧 Level: 🛡️ Basic
 ---
 # Что такое HEAD в Git?

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "bbf83b32811e4dff",
+        "id": "a7a957496de3ecbc",
         "type": "tabs",
         "children": [
           {
-            "id": "51290aa164a4b1a8",
+            "id": "c69ac43f5ea866e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/100 Interview/Git - 12 git commit.md",
+                "file": "Cisco/99 Commands/Cs - aaa authentication login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - 12 git commit"
+              "title": "Cs - aaa authentication login"
+            }
+          },
+          {
+            "id": "56d3593b885ded62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/99 Commands/Git - git reset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git - git reset"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:🐙git/areas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -133,7 +148,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -184,13 +199,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
@@ -198,40 +213,37 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "51290aa164a4b1a8",
+  "active": "56d3593b885ded62",
   "lastOpenFiles": [
-    "Git/100 Interview/Git - 11 git add.md",
-    "Git/100 Interview/Git - 12 git commit.md",
-    "Git/100 Interview/Git - 10 git status.md",
-    "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md",
-    "Git/99 Commands/Git - git status.md",
+    "06 Рабочая директория, Индекс и Репозиторий.md",
+    "Git/99 Commands/Git - git reset.md",
     "Git/99 Commands/Git - git add.md",
-    "Git/100 Interview/Git - 09 Как Git хранит информацию (Объектная модель Git).md",
-    "Git/99 Commands/Git - git ls-files.md",
-    "Git/100 Interview/Git - 08 Операция клонирования (git clone).md",
-    "Git/100 Interview/Git - 06 Рабочая директория, Индекс и Репозиторий.md",
-    "Git/100 Interview/Git - 07 Что такое HEAD в Git.md",
-    "Git/100 Interview/Git - 01 Что такое Git.md",
-    "Git/100 Interview/Git - 02 Ключевые понятия Git.md",
-    "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md",
-    "Git/100 Interview/Git - 04 Разница между Git и GitHub.md",
-    "Git/100 Interview/Git - 05 Что такое репозиторий.md",
+    "Git/99 Commands/Git -  git fetch.md",
+    "Git/100 Interview/Git - 12 git commit.md",
     "Git/Git - 01 Base of questions.md",
-    "Git/99 Commands/Git - git cherry-pick.md",
-    "Git/01  ⚙️ Internals/Git - 02 Areas.md",
+    "Git/100 Interview/Git - 11 git add.md",
+    "Git/100 Interview/Git - 10 git status.md",
+    "Git/100 Interview/Git - 09 Как Git хранит информацию (Объектная модель Git).md",
+    "Git/100 Interview/Git - 08 Операция клонирования (git clone).md",
+    "Git/100 Interview/Git - 07 Что такое HEAD в Git.md",
+    "Git/100 Interview/Git - 06 Рабочая директория, Индекс и Репозиторий.md",
+    "Git/100 Interview/Git - 05 Что такое репозиторий.md",
+    "Git/100 Interview/Git - 04 Разница между Git и GitHub.md",
+    "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md",
+    "Git/100 Interview/Git - 02 Ключевые понятия Git.md",
+    "Git/100 Interview/Git - 01 Что такое Git.md",
+    "Cisco/99 Commands/Cs - aaa authentication login.md",
+    "Git/99 Commands/Git - git remote.md",
+    "Git/99 Commands/Git - git branch.md",
+    "Git/01  ⚙️ Internals/Git - 06 HEAD.md",
     "Git/01  ⚙️ Internals/Git - 00 Objects Type.md",
+    "Git/01  ⚙️ Internals/Git - 04 Commit.md",
+    "Obsidian/Hotkeys & Keyboard list.md",
     "Cisco/Cs - 00 Base of Commands.md",
-    "Cisco/99 Commands/Cs - exit.md",
-    "Cisco/99 Commands/Cs - enable.md",
-    "Cisco/99 Commands/Cs - configure terminal.md",
-    "Cisco/99 Commands/Cs - aaa new-model.md",
-    "Git/Commands/Git - git status.md",
-    "Git/99 Commands",
-    "Git/100 Interview",
     "Cisco/Cs - 99 Default Base Commands.base",
-    "Cisco/99 Commands",
+    "Cisco/00 📜 Theory/Cs - 01 Authentification.md",
+    "Cisco/100 Interview",
     "Cisco/00 📜 Theory",
-    "Git/Commands",
-    "Cisco/Commands"
+    "Git/100 Interview"
   ]
 }

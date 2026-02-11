@@ -2,7 +2,7 @@
 tags:
   - 🐙git
   - 🐙git/questions
-❔ Question: Working Directory, Staging Area, Repository. Понятие 'Трех деревьев' и HEAD.
+❔ Question: 06 Working Directory, Staging Area, Repository. Понятие 'Трех деревьев' и HEAD.
 🔧 Level: 🛡️ Basic
 ---
 # Рабочая директория, Индекс и Репозиторий

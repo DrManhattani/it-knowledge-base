@@ -2,7 +2,7 @@
 tags:
   - 🐙git
   - 🐙git/questions
-❔ Question: git status
+❔ Question: 10 git status
 🔧 Level: 🛡️ Basic
 ---
 # Команда git status

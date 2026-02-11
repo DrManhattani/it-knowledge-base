@@ -2,7 +2,7 @@
 tags:
   - 🐙git
   - 🐙git/questions
-❔ Question: Разница между Git (инструмент) и GitHub (платформа/хостинг).
+❔ Question: 04 Разница между Git (инструмент) и GitHub (платформа/хостинг).
 🔧 Level: 🛡️ Basic
 ---
 # В чем разница между Git и GitHub?

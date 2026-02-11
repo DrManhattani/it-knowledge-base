@@ -2,7 +2,7 @@
 tags:
   - 🐙git
   - 🐙git/questions
-❔ Question: "Команда git commit: механика, флаги и лучшие практики."
+❔ Question: "12 Команда git commit: механика, флаги и лучшие практики."
 🔧 Level: 🛡️ Basic
 ---
 # Команда git commit

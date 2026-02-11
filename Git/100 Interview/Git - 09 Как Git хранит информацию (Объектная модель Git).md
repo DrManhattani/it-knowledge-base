@@ -2,7 +2,7 @@
 tags:
   - 🐙git
   - 🐙git/questions
-❔ Question: Как Git хранит информацию? (Объектная модель Git)
+❔ Question: 09 Как Git хранит информацию? (Объектная модель Git)
 🔧 Level: 🛡️ Basic
 ---
 # Как Git хранит информацию? (Внутри .git/objects)
