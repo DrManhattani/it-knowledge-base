@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMessageCircleQuestionMark",
       "LiDatabase",
       "📁",
       "LiList",
-      "LiSettings",
-      "LiTableConfig"
+      "LiSettings"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -75,10 +75,16 @@
   "Cisco/Cs - 99 Default Base Commands.base": "LiDatabase",
   "Cisco/00 📜 Theory/Cs - 00 Режимы конфигурирования.md": "LiSettings",
   "Cisco/00 📜 Theory/Cs - 01 Authentification.md": "LiSettings",
-  "Git/100 Interview/Git - 01 Что такое Git.md": "LiSettings",
-  "Git/100 Interview/Git - 02 Ключевые понятия Git.md": "LiSettings",
-  "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md": "LiSettings",
-  "Git/100 Interview/Git - 04 Разница между Git и GitHub.md": "LiSettings",
-  "Git/100 Interview/Git - 05 Что такое репозиторий.md": "LiSettings",
-  "Git/100 Interview/Git - 06 Рабочая директория, Индекс и Репозиторий.md": "LiSettings"
+  "Git/100 Interview/Git - 01 Что такое Git.md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 02 Ключевые понятия Git.md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 04 Разница между Git и GitHub.md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 05 Что такое репозиторий.md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 06 Рабочая директория, Индекс и Репозиторий.md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 07 Что такое HEAD в Git.md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 08 Операция клонирования (git clone).md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 09 Как Git хранит информацию (Объектная модель Git).md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 10 git status.md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 11 git add.md": "LiMessageCircleQuestionMark",
+  "Git/100 Interview/Git - 12 git commit.md": "LiMessageCircleQuestionMark"
 }

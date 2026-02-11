@@ -3,7 +3,7 @@ tags:
   - 🐙git
   - 🐙git/questions
 ❔ Question: "03 Сравнение Git с традиционными СКВ (SVN, CVS). Архитектурные преимущества: Snapshots, Integrity, Index."
-🔧 Level: 🛡️ Basic / ⚔️ Middle
+🔧 Level: 🛡️ Basic
 ---
 # 🧠 Git vs SVN / CVS — технические отличия (уровень собеседования)
 

@@ -85,6 +85,6 @@ tags:
 
 ---
 ### 🔗 Связи
-- **Проверка результата:** [[Git - git status | git status]]
+- **Проверка результата:** [[Git/99 Commands/Git - git status| git status]]
 - **Области в Git:** [[Git - 02 Areas | Areas]]
 - **Следующий шаг:** [[Git - git commit | git commit]]
