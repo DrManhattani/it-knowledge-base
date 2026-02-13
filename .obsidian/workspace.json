@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/99 Commands/Git - git reset.md",
+                "file": "Git/99 Commands/Git - git checkout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - git reset"
+              "title": "Git - git checkout"
             }
           }
         ]
@@ -200,11 +200,15 @@
   },
   "active": "51290aa164a4b1a8",
   "lastOpenFiles": [
-    "Git/99 Commands/Git - git remote.md",
-    "Git/99 Commands/Git - git rebase.md",
-    "Git/99 Commands/Git - git stash.md",
+    "Git/99 Commands/Git - git restore.md",
+    "Git/99 Commands/Git - git checkout.md",
     "Git/99 Commands/Git - git reset.md",
+    "Git/99 Commands/Git - git stash.md",
+    "Git/99 Commands/Git - git rm.md",
+    "test file",
     "Git/100 Interview/Git - 12 git commit.md",
+    "Git/99 Commands/Git - git rebase.md",
+    "Git/99 Commands/Git - git remote.md",
     "Git/100 Interview/Git - 11 git add.md",
     "Git/100 Interview/Git - 10 git status.md",
     "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md",
@@ -223,9 +227,6 @@
     "Git/Git - 01 Base of questions.md",
     "Git/99 Commands/Git - git cherry-pick.md",
     "Git/01  ⚙️ Internals/Git - 02 Areas.md",
-    "Git/01  ⚙️ Internals/Git - 00 Objects Type.md",
-    "Cisco/Cs - 00 Base of Commands.md",
-    "Cisco/99 Commands/Cs - exit.md",
     "Git/99 Commands",
     "Git/100 Interview",
     "Cisco/Cs - 99 Default Base Commands.base",
