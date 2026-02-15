@@ -4,13 +4,6 @@ tags:
   - 🐙git
   - 🐙git/config
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 🌐 System-wide
-  - 🌎 Global
-  - 📁 Local
-🛡️ Risk: ✅ Safe
-🏹 Target Area: Configuration ⚙️
 📝 Description: Утилита для управления настройками пользователя и среды Git.
 💻 Command: git config
 ---

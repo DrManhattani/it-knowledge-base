@@ -4,11 +4,8 @@ tags:
   - 🐙git/stash
   - 🐙git
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain / ⚔️ Middle
-🌍 Scope: 
-  - 📂 Working Directory + 📥 Index -> 📦 Stash Stack
-🛡️ Risk: ✅ Safe (Данные всегда можно вернуть из стека)
-🏹 Target Area: Temporary Storage & Context Switching 🔄
+📝 Description: Инструмент для временного сохранения незавершенных изменений
+💻 Command: git stash
 ---
 # 📦 git stash
 

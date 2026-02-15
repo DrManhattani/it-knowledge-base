@@ -4,11 +4,6 @@ tags:
   - 🐙git/index
   - 🐙git
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local
-🛡️ Risk: ✅ Safe
-🏹 Target Area: Index (Staging Area) 🗂️
 📝 Description: Добавление изменений из рабочей директории в индекс для подготовки следующего коммита.
 💻 Command: git add
 ---

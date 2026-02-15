@@ -4,13 +4,6 @@ tags:
   - 🐙git/remote
   - 🐙git
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 🌐 Remote
-  - 📁 Local
-  - 📂 Working Directory
-🛡️ Risk: ⚠️ Medium (Риск конфликтов при интеграции)
-🏹 Target Area: Local History & Working Directory 🏛️
 📝 Description: Автоматическая синхронизация текущей ветки с удаленным репозиторием (Fetch + Merge/Rebase).
 💻 Command: git pull
 ---

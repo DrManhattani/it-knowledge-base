@@ -4,11 +4,6 @@ tags:
   - 🐙git
   - 🐙git/commit
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local
-🛡️ Risk: ✅ Safe / ⚠️ Moderate (--amend)
-🏹 Target Area: Commit history 🕰️
 📝 Description: Создание неизменяемого снимка состояния проекта на основе Индекса.
 💻 Command: git commit
 ---

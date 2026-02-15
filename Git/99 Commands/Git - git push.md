@@ -4,12 +4,6 @@ tags:
   - 🐙git/remote
   - 🐙git
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local
-  - 🌐 Remote
-🛡️ Risk: 🔴 High (Риск перезаписи истории и удаления данных на сервере)
-🏹 Target Area: Remote Repository & Tracking Branches 🛰️
 📝 Description: Отправка локальных коммитов и объектов в удаленный репозиторий для обновления удаленных ссылок.
 💻 Command: git push
 ---

@@ -3,11 +3,6 @@ tags:
   - 🐙git/cmd
   - 🐙git
 💠Stack: 🐙 Git
-🌍 Scope:
-  - 🌎 Global
-🛡️ Risk: ⚠️ Moderate (может перезаписать индекс или WD)
-🏹 Target Area: Index 🗂️
-🔧 Level: 🪠 Plumbing
 📝 Description: Загружает содержимое объекта дерева (tree) в индекс, позволяя подготавливать состояние проекта без использования высокоуровневых команд.
 💻 Command: git read-tree
 ---

@@ -5,11 +5,6 @@ tags:
   - 🐙git/branch
   - 🐙git/restore
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local
-🛡️ Risk: ⚠️ Moderate
-🏹 Target Area: Working Directory & HEAD 📍
 📝 Description: Переключение между ветками, создание новых веток и восстановление файлов из разных состояний.
 💻 Command: git checkout
 ---

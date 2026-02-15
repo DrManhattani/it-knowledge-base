@@ -4,11 +4,6 @@ tags:
   - 🐙git
   - 🐙git/restore
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local (.git storage) -> 📂 Working Directory
-🛡️ Risk: ❌ High (Особенно с флагом --hard)
-🏹 Target Area: History Rewriting & Local Cleanup ⏳
 📝 Description: Перемещение указателя HEAD на конкретный коммит и опциональное обновление Индекса и Рабочей директории.
 💻 Command: git reset
 ---

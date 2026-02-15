@@ -4,13 +4,6 @@ tags:
   - 🐙git
   - 🐙git/merge
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local History
-  - 📂 Working Directory
-  - 🗂️ Index
-🛡️ Risk: ⚠️ Medium/High (Появление конфликтов и усложнение графа истории)
-🏹 Target Area: Branch Integration & History Management 🧬
 📝 Description: Объединение нескольких линий разработки в одну.
 💻 Command: git merge
 ---

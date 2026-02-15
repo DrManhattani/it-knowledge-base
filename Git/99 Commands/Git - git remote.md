@@ -4,11 +4,6 @@ tags:
   - 🐙git/remote
   - 🐙git
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 🌐 Remote Links
-🛡️ Risk: ✅ Safe / ⚠️ Moderate (при remove)
-🏹 Target Area: Configuration & Networking 📡
 📝 Description: Управление связями с удаленными репозиториями.
 💻 Command: git remote
 ---

@@ -5,11 +5,6 @@ tags:
   - 🐙git/show
   - 🐙git/index
 💠Stack: 🐙 Git
-🌍 Scope:
-  - 🌎 Global
-🛡️ Risk: ✅ Safe
-🏹 Target Area: Index 🗂️
-🔧 Level: 🪠 Plumbing
 📝 Description: Команда для вывода списка файлов, находящихся в индексе (Staging Area) или отслеживаемых Git.
 💻 Command: git ls-files
 ---

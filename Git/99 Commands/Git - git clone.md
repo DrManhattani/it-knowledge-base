@@ -4,11 +4,6 @@ tags:
   - 🐙git
   - 🐙git/remote
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 🌐 Remote -> 📁 Local
-🛡️ Risk: ✅ Safe
-🏹 Target Area: Local Repository Initialization 🏗️
 📝 Description: Создание локальной копии удаленного репозитория со всей его историей.
 💻 Command: git clone
 ---

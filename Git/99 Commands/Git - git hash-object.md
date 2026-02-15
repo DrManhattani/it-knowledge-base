@@ -3,11 +3,6 @@ tags:
   - 🐙git/cmd
   - 🐙git
 💠Stack: 🐙 Git
-🌍 Scope:
-  - 🌎 Global
-🛡️ Risk: ✅ Safe
-🏹 Target Area: Object DB 🗄️
-🔧 Level: 🪠 Plumbing
 📝 Description: Низкоуровневая команда для вычисления SHA-1 хеша и записи объектов в базу данных Git.
 💻 Command: git hash-object
 ---

@@ -4,9 +4,6 @@ tags:
   - 🐙git/diff
   - 🐙git
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🛡️ Risk: ✅ Safe
-🏹 Target Area: Differences & Patches 🔍
 📝 Description: Сравнение состояний репозитория на разных этапах жизненного цикла.
 💻 Command: git diff
 ---

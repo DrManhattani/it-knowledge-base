@@ -4,11 +4,6 @@ tags:
   - 🐙git
   - 🐙git/merge
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local History
-🛡️ Risk: "🔴 High (Деструктивная операция: переписывает хеши коммитов)"
-🏹 Target Area: Branch Linearization & History Cleaning 🧹
 📝 Description: Перенос базы текущей ветки на новый базовый коммит.
 💻 Command: git rebase
 ---

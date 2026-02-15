@@ -6,11 +6,6 @@ tags:
   - 🐙git/commit
   - 🐙git/show
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local
-🛡️ Risk: ✅ Safe
-🏹 Target Area: Commit History 🕰️
 📝 Description: Инструмент для просмотра, фильтрации и анализа истории коммитов репозитория.
 💻 Command: git log
 ---

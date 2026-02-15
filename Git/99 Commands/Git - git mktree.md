@@ -3,11 +3,6 @@ tags:
   - 🐙git/cmd
   - 🐙git
 💠Stack: 🐙 Git
-🌍 Scope:
-  - 🌎 Global
-🛡️ Risk: ✅ Safe
-🏹 Target Area: Object DB 🗄️
-🔧 Level: 🪠 Plumbing
 📝 Description: Низкоуровневая команда для создания бинарного объекта дерева (tree) из текстового списка.
 💻 Command: git mktree
 ---

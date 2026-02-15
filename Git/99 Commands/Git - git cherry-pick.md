@@ -4,12 +4,6 @@ tags:
   - 🐙git
   - 🐙git/merge
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local History
-  - 📂 Working Directory
-🛡️ Risk: ⚠️ Medium (Риск дублирования коммитов и логических конфликтов)
-🏹 Target Area: Selective Commit Application 🍒
 📝 Description: Копирование изменений конкретного коммита и применение их в текущей ветке.
 💻 Command: git cherry-pick
 ---
@@ -72,7 +66,7 @@ tags:
 > git cherry-pick <commit-hash>
 > ```
 
-> [!EXAMPLE] **Сборка нескольких коммитов в один (с `-n`)**
+> [!EXAMPLE] **Сборка нескольких коммитов в один (с** `-n`**)**
 > ```bash
 > git cherry-pick -n <hash1>
 > git cherry-pick -n <hash2>

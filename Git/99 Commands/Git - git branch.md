@@ -5,11 +5,6 @@ tags:
   - 🐙git/branch
   - 🐙git/show
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local & Remote
-🛡️ Risk: ⚠️ Moderate (при удалении)
-🏹 Target Area: Refs & Branches 🌿
 📝 Description: "Управление указателями на ветки: создание, удаление, переименование и листинг."
 💻 Command: git branch
 ---

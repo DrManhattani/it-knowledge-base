@@ -4,11 +4,6 @@ tags:
   - 🐙git
   - 🐙git/rm
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local
-🛡️ Risk: ⚠️ Moderate (Destructive)
-🏹 Target Area: Index & Working Directory 📂
 📝 Description: Удаление файлов из индекса и рабочего каталога.
 💻 Command: git rm
 ---

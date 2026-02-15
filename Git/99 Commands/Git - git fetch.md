@@ -4,11 +4,6 @@ tags:
   - 🐙git/remote
   - 🐙git
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 🌐 Remote -> 📁 Local (.git storage)
-🛡️ Risk: ✅ Safe (Не меняет рабочие файлы)
-🏹 Target Area: Synchronization & Information Gathering 📡
 📝 Description: Загрузка объектов и ссылок из удаленного репозитория без изменения рабочей директории.
 💻 Command: git fetch
 ---

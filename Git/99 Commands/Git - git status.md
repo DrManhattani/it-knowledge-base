@@ -5,11 +5,6 @@ tags:
   - 🐙git/status
   - 🐙git/show
 💠Stack: 🐙 Git
-🔧 Level: 🏺 Porcelain
-🌍 Scope:
-  - 📁 Local
-🛡️ Risk: ✅ Safe
-🏹 Target Area: Index & Working Directory 🗂️
 📝 Description: Проверка текущего состояния файлов и их распределения по зонам (статусам).
 💻 Command: git status
 ---
