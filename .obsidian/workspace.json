@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51290aa164a4b1a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/99 Commands/Git - git rm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git - git rm"
-            }
-          },
-          {
             "id": "5089456daa9270cf",
             "type": "leaf",
             "state": {
@@ -34,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Git - git submodule"
             }
-          },
-          {
-            "id": "7ed86e64850da304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/99 Commands/Git - git diff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git - git diff"
-            }
-          },
-          {
-            "id": "ba3841f69d982d74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/99 Commands/Git - git submodule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git - git submodule"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,20 +198,22 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7ed86e64850da304",
+  "active": "5089456daa9270cf",
   "lastOpenFiles": [
+    "Git/99 Commands/Git - git ls-tree.md",
     "Git/99 Commands/Git - git submodule.md",
+    "Git/99 Commands/Git - git add.md",
+    "Git/99 Commands/Git - git clone.md",
+    "Git/99 Commands/Git - git diff.md",
     "Git/99 Commands/Git - git branch.md",
     "Git/99 Commands/Git - git rm.md",
     "Git/99 Commands/Git - git worktree.md",
-    "Git/99 Commands/Git - git clone.md",
     "Git/99 Commands/Git - git blame.md",
     "Git/99 Commands/Git - git clean.md",
     "Git/99 Commands/dfgdfg.md",
     "Git/99 Commands/Git - git reset.md",
     "Git/99 Commands/Git - git bisect.md",
     "Git/99 Commands/Git - git commit.md",
-    "Git/99 Commands/Git - git add.md",
     "Git/99 Commands/Git - git fetch.md",
     "Git/99 Commands/Git - git push.md",
     "Git/99 Commands/Git - git tag.md",
@@ -268,8 +227,6 @@
     "Git/100 Interview/Git - 12 git commit.md",
     "Git/99 Commands/Git - git rebase.md",
     "Git/99 Commands/Git - git remote.md",
-    "Git/100 Interview/Git - 11 git add.md",
-    "Git/100 Interview/Git - 10 git status.md",
     "Git/99 Commands",
     "Git/100 Interview",
     "Cisco/Cs - 99 Default Base Commands.base",
