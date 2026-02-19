@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Git - git submodule"
             }
+          },
+          {
+            "id": "dc1abbad7d1f1d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/99 Commands/Git - git subtree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git - git subtree"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,11 +213,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5089456daa9270cf",
+  "active": "dc1abbad7d1f1d5f",
   "lastOpenFiles": [
-    "Git/99 Commands/Git - git ls-tree.md",
     "Git/99 Commands/Git - git submodule.md",
+    "Git/99 Commands/Git - git subtree.md",
     "Git/99 Commands/Git - git add.md",
+    "Git/99 Commands/Git - git ls-tree.md",
     "Git/99 Commands/Git - git clone.md",
     "Git/99 Commands/Git - git diff.md",
     "Git/99 Commands/Git - git branch.md",
@@ -226,7 +242,6 @@
     "test file",
     "Git/100 Interview/Git - 12 git commit.md",
     "Git/99 Commands/Git - git rebase.md",
-    "Git/99 Commands/Git - git remote.md",
     "Git/99 Commands",
     "Git/100 Interview",
     "Cisco/Cs - 99 Default Base Commands.base",
