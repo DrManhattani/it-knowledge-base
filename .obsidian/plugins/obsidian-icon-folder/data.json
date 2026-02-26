@@ -86,5 +86,7 @@
   "Git/100 Interview/Git - 09 Как Git хранит информацию (Объектная модель Git).md": "LiMessageCircleQuestionMark",
   "Git/100 Interview/Git - 10 git status.md": "LiMessageCircleQuestionMark",
   "Git/100 Interview/Git - 11 git add.md": "LiMessageCircleQuestionMark",
-  "Git/100 Interview/Git - 12 git commit.md": "LiMessageCircleQuestionMark"
+  "Git/100 Interview/Git - 12 git commit.md": "LiMessageCircleQuestionMark",
+  "Git/01  ⚙️ Internals/Git - 07 Git Hooks.md": "LiSettings",
+  "Git/100 Interview/Git - 13 git diff.md": "LiMessageCircleQuestionMark"
 }
