@@ -2,6 +2,7 @@
 tags:
   - 🐙git
   - 🐙git/questions
+  - 🐙git/index
 ❔ Question: 10 git status
 🔧 Level: 🛡️ Basic
 ---
