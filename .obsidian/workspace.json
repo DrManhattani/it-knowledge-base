@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bbf83b32811e4dff",
+        "id": "137014547ffb4ee3",
         "type": "tabs",
         "children": [
           {
-            "id": "dc1abbad7d1f1d5f",
+            "id": "6cbbc767733778ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/99 Commands/Git - git log.md",
+                "file": "Git/99 Commands/Git - git cherry-pick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - git log"
+              "title": "Git - git cherry-pick"
             }
           },
           {
-            "id": "aa0f51ae3a098b27",
+            "id": "a6f6029f491a9d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/99 Commands/Git - git rebase.md",
-                "mode": "source",
+                "file": "Git/99 Commands/Git - git stash.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - git rebase"
+              "title": "Git - git stash"
             }
           }
         ],
@@ -213,34 +213,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "aa0f51ae3a098b27",
+  "active": "a6f6029f491a9d66",
   "lastOpenFiles": [
-    "Git/99 Commands/Git - git show.md",
-    "Git/99 Commands/Git - git log.md",
-    "Git/99 Commands/Git - git fetch.md",
-    "Git/100 Interview/Git - 17 git rebase.md",
-    "Git/99 Commands/Git - git merge.md",
-    "Git/100 Interview/Git - 16 git merge.md",
-    "Git/100 Interview/Git - 15 git fetch.md",
-    "Git/100 Interview/Git - 08 Операция клонирования (git clone).md",
-    "Git/100 Interview/Git - 14 git push.md",
-    "Git/100 Interview/Git - 13 git diff.md",
-    "Git/100 Interview/Git - 12 git commit.md",
-    "Git/100 Interview/Git - 11 git add.md",
-    "Git/100 Interview/Git - 10 git status.md",
-    "Git/99 Commands/Git - git clone.md",
-    "Git/100 Interview/Git - 06 Рабочая директория, Индекс и Репозиторий.md",
-    "Git/100 Interview/Git - 03 Сравнение Git с традиционными СКВ.md",
-    "Git/100 Interview/Git - 04 Разница между Git и GitHub.md",
-    "Git/99 Commands/Git - git cherry-pick.md",
-    "Git/100 Interview/Git - 19 git branch.md",
-    "Git/100 Interview/Git - 02 Ключевые понятия Git.md",
-    "Git/100 Interview/Git - 01 Что такое Git.md",
-    "Git/100 Interview/Git - 20 git checkout.md",
-    "Git/99 Commands/Git - git switch.md",
-    "Git/99 Commands/Git - git restore.md",
-    "Git/99 Commands/Git - git checkout.md",
+    "Git/99 Commands/Git - git status.md",
+    "Network/03 Layer 3 Network/Nw - OSPF.md",
+    "Git/99 Commands/Git - git cat-file.md",
     "Git/99 Commands/Git - git branch.md",
+    "Git/99 Commands/Git - git checkout.md",
+    "Git/99 Commands/Git - git cherry-pick.md",
+    "Git/99 Commands/Git - git diff.md",
+    "Git/99 Commands/Git - git log.md",
+    "Git/01  ⚙️ Internals/Git - 03 User settings.md",
+    "Git/01  ⚙️ Internals/Git - 04 Commit.md",
+    "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md",
+    "Git/01  ⚙️ Internals/Git - 06 HEAD.md",
+    "Git/100 Interview/Git - 08 Операция клонирования (git clone).md",
+    "Git/100 Interview/Git - 09 Как Git хранит информацию (Объектная модель Git).md",
+    "Git/100 Interview/Git - 07 Что такое HEAD в Git.md",
+    "Git/99 Commands/Git - git worktree.md",
+    "Git/99 Commands/Git - git tag.md",
+    "Git/99 Commands/Git - git switch.md",
+    "Git/99 Commands/Git - git subtree.md",
+    "Git/99 Commands/Git - git submodule.md",
+    "Git/99 Commands/Git - git stash.md",
+    "Git/99 Commands/Git - git show.md",
+    "Git/99 Commands/Git - git rm.md",
+    "Git/99 Commands/Git - git revert.md",
+    "Git/99 Commands/Git - git restore.md",
+    "Git/99 Commands/Git - git reset.md",
     "test file",
     "Git/99 Commands",
     "Git/100 Interview",
