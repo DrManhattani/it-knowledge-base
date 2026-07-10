@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/99 Commands/Git - git cherry-pick.md",
+                "file": "Network/03 Layer 3 Network/Nw - OSPF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - git cherry-pick"
+              "title": "Nw - OSPF"
             }
           },
           {
-            "id": "a6f6029f491a9d66",
+            "id": "7d67805fe39745bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/99 Commands/Git - git stash.md",
-                "mode": "preview",
+                "file": "Git/99 Commands/Git - git status.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git - git stash"
+              "title": "Git - git status"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:🐙git/areas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -162,7 +162,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Все свойства"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/01  ⚙️ Internals/Git - 03 User settings.md",
+                "file": "Network/03 Layer 3 Network/Nw - Протоколы резервирования шлюза. HSRP, VRRP, GLBP..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git - 03 User settings"
+              "title": "Структура Nw - Протоколы резервирования шлюза. HSRP, VRRP, GLBP."
             }
           },
           {
@@ -213,41 +213,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a6f6029f491a9d66",
+  "active": "7d67805fe39745bd",
   "lastOpenFiles": [
-    "Git/99 Commands/Git - git status.md",
+    "Git/Git - 01 Base of questions.md",
+    "Network/03 Layer 3 Network/Assets NAT/1. NAT.png",
+    "Network/03 Layer 3 Network/Assets NAT/2. NAT - что происходит с пакетом.png",
+    "Network/04 Layer 4 Transport/Assets/26. ECN (ч.2).png",
+    "Network/04 Layer 4 Transport/Assets/25. ECN (ч.1).png",
+    "Network/04 Layer 4 Transport/Assets/24. ECN - общая информация.png",
+    "Network/04 Layer 4 Transport/Assets/23. Алгоритмы управления перегрузкой (ч.2).png",
+    "Network/04 Layer 4 Transport/Assets/22. Алгоритмы управления перегрузкой.png",
+    "Network/04 Layer 4 Transport/Assets/21. Управление перегрузкой.png",
+    "Network/04 Layer 4 Transport/Assets/20. Управление потоком.png",
+    "Network/04 Layer 4 Transport/Assets/10. Формат TCP-заголовка.png",
+    "Network/03 Layer 3 Network/Nw - GRE туннели.md",
+    "Network/04 Layer 4 Transport/Без названия.md",
+    "Network/03 Layer 3 Network/Nw - Протоколы резервирования шлюза. HSRP, VRRP, GLBP..md",
+    "Network/02 Layer 2 DataLink/Nw - 05 STP.md",
+    "Network/02 Layer 2 DataLink/Nw - 06 LACP.md",
+    "Network/02 Layer 2 DataLink/Nw - 04 VLAN.md",
+    "Network/03 Layer 3 Network/Nw - BGP.md",
     "Network/03 Layer 3 Network/Nw - OSPF.md",
-    "Git/99 Commands/Git - git cat-file.md",
-    "Git/99 Commands/Git - git branch.md",
-    "Git/99 Commands/Git - git checkout.md",
+    "Network/03 Layer 3 Network/Nw - RIP.md",
+    "Network/03 Layer 3 Network/Nw - NDP.md",
+    "Network/03 Layer 3 Network/Nw - ICMPv6.md",
+    "Network/03 Layer 3 Network/Nw - IPv6 адреса.md",
+    "Network/03 Layer 3 Network/Nw - ARP.md",
+    "Network/03 Layer 3 Network/Nw - ICMP.md",
+    "Network/03 Layer 3 Network/Nw - DHCP.md",
+    "Network/03 Layer 3 Network/Assets IPv4",
+    "Network/03 Layer 3 Network/Assets NAT",
+    "Network/04 Layer 4 Transport/Assets",
     "Git/99 Commands/Git - git cherry-pick.md",
-    "Git/99 Commands/Git - git diff.md",
-    "Git/99 Commands/Git - git log.md",
-    "Git/01  ⚙️ Internals/Git - 03 User settings.md",
-    "Git/01  ⚙️ Internals/Git - 04 Commit.md",
-    "Git/01  ⚙️ Internals/Git - 05 Git Statuses.md",
-    "Git/01  ⚙️ Internals/Git - 06 HEAD.md",
-    "Git/100 Interview/Git - 08 Операция клонирования (git clone).md",
-    "Git/100 Interview/Git - 09 Как Git хранит информацию (Объектная модель Git).md",
-    "Git/100 Interview/Git - 07 Что такое HEAD в Git.md",
-    "Git/99 Commands/Git - git worktree.md",
+    "Network/02 Layer 2 DataLink/Assets",
+    "Network/03 Layer 3 Network/Assets",
+    "Без названия.md",
+    "Network/02 Layer 2 DataLink/Nw - 07 Inter VLAN routing.md",
+    "Git/99 Commands/Git - git push.md",
     "Git/99 Commands/Git - git tag.md",
-    "Git/99 Commands/Git - git switch.md",
-    "Git/99 Commands/Git - git subtree.md",
-    "Git/99 Commands/Git - git submodule.md",
     "Git/99 Commands/Git - git stash.md",
-    "Git/99 Commands/Git - git show.md",
-    "Git/99 Commands/Git - git rm.md",
-    "Git/99 Commands/Git - git revert.md",
+    "Git/99 Commands/Git - git submodule.md",
     "Git/99 Commands/Git - git restore.md",
-    "Git/99 Commands/Git - git reset.md",
+    "Git/99 Commands/Git - git fetch.md",
+    "Git/99 Commands/Git - git switch.md",
     "test file",
     "Git/99 Commands",
     "Git/100 Interview",
     "Cisco/Cs - 99 Default Base Commands.base",
-    "Cisco/99 Commands",
-    "Cisco/00 📜 Theory",
-    "Git/Commands",
-    "Cisco/Commands"
+    "Cisco/99 Commands"
   ]
 }
